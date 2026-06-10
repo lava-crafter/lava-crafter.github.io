@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "Lava Crafter 文档",
+    "description": "The title in the navbar"
+  },
+  "item.label.Home": {
+    "message": "首页",
+    "description": "Navbar item with label Home"
+  },
+  "item.label.lava_note": {
+    "message": "lava_note",
+    "description": "Navbar item with label lava_note"
+  },
+  "item.label.map_timeline_tool": {
+    "message": "map_timeline_tool",
+    "description": "Navbar item with label map_timeline_tool"
+  },
+  "item.label.Map Timeline Tool Site": {
+    "message": "Map Timeline Tool 网站",
+    "description": "Navbar item with label Map Timeline Tool Site"
+  },
+  "item.label.lava_note repo": {
+    "message": "lava_note 仓库",
+    "description": "Navbar item with label lava_note repo"
+  },
+  "item.label.map_timeline_tool repo": {
+    "message": "map_timeline_tool 仓库",
+    "description": "Navbar item with label map_timeline_tool repo"
+  }
+}

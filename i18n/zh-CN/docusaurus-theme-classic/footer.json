@@ -1,0 +1,22 @@
+{
+  "link.title.Projects": {
+    "message": "项目",
+    "description": "The title of the footer links column with title=Projects in the footer"
+  },
+  "link.item.label.lava_note technical docs": {
+    "message": "lava_note 技术文档",
+    "description": "The label of footer link with label=lava_note technical docs linking to /docs/lava-note/technical/overview"
+  },
+  "link.item.label.map_timeline_tool technical docs": {
+    "message": "map_timeline_tool 技术文档",
+    "description": "The label of footer link with label=map_timeline_tool technical docs linking to /docs/map-timeline-tool/overview"
+  },
+  "link.item.label.Map Timeline Tool site": {
+    "message": "Map Timeline Tool 网站",
+    "description": "The label of footer link with label=Map Timeline Tool site linking to https://lava-crafter.github.io/map_timeline_tool/"
+  },
+  "copyright": {
+    "message": "Copyright © 2026 lava-crafter",
+    "description": "The footer copyright"
+  }
+}

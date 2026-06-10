@@ -1,0 +1,39 @@
+{
+  "lavaNote": [
+    {
+      "type": "category",
+      "label": "lava_note 技术文档",
+      "items": [
+        "lava-note/technical/overview",
+        "lava-note/technical/architecture",
+        "lava-note/technical/canvas-screen",
+        "lava-note/technical/input-and-ink",
+        "lava-note/technical/storage-overview",
+        "lava-note/technical/storage-format",
+        "lava-note/technical/pdf-overview",
+        "lava-note/technical/pdf-large-documents",
+        "lava-note/technical/pdf-annotation-model",
+        "lava-note/technical/tools-overview",
+        "lava-note/technical/math-overview",
+        "lava-note/technical/performance-overview",
+        "lava-note/technical/testing-strategy",
+        "lava-note/technical/roadmap-current"
+      ]
+    }
+  ],
+  "mapTimelineTool": [
+    {
+      "type": "category",
+      "label": "map_timeline_tool 技术文档",
+      "items": [
+        "map-timeline-tool/overview",
+        "map-timeline-tool/architecture",
+        "map-timeline-tool/data-model",
+        "map-timeline-tool/map-and-location",
+        "map-timeline-tool/export-import",
+        "map-timeline-tool/settings-and-cache",
+        "map-timeline-tool/testing-and-release"
+      ]
+    }
+  ]
+}

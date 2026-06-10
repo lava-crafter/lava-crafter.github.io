@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "当前版本",
+    "description": "The label for version current"
+  },
+  "sidebar.lavaNote.category.lava_note technical": {
+    "message": "lava_note 技术文档",
+    "description": "The label for category 'lava_note technical' in sidebar 'lavaNote'"
+  },
+  "sidebar.mapTimelineTool.category.map_timeline_tool technical": {
+    "message": "map_timeline_tool 技术文档",
+    "description": "The label for category 'map_timeline_tool technical' in sidebar 'mapTimelineTool'"
+  }
+}

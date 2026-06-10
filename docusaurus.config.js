@@ -51,6 +51,7 @@ const config = {
         {href: 'https://lava-crafter.github.io/map_timeline_tool/', label: 'Map Timeline Tool Site', position: 'right'},
         {href: 'https://github.com/lava-crafter/lava_note', label: 'lava_note repo', position: 'right'},
         {href: 'https://github.com/lava-crafter/map_timeline_tool', label: 'map_timeline_tool repo', position: 'right'},
+        {type: 'localeDropdown', position: 'right'},
       ],
     },
     footer: {
